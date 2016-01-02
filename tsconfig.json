@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "src": ["lib/**/*.ts", "spec/**/*.js"],
+    "outDir": "dist"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
